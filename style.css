@@ -84,6 +84,23 @@ th {
 
 .table__container {
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+fieldset {
+  margin: 30px 0;
+  padding: 40px;
+}
+
+fieldset p {
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 7px 35px;
+  margin: 30px 30px 30px 0;
+  border-radius: 10px;
+  outline: 0;
 }
