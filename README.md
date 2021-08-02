@@ -11,3 +11,7 @@
 ### Form
 
 [Live Link](https://farhan-nahid.github.io/html5/form.html)
+
+### Nav
+
+[Live Link](https://farhan-nahid.github.io/html5/nav.html)
